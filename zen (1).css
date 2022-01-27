@@ -52,7 +52,7 @@ header h1, header h2{
 header {
     
   /* background-color:#A1FDE1; 
-    background-image:url(/zen_garden/header.jpg); */
+    background-image:url(/zen_photos/header.jpg); */
      color:white;
       width:100%;
 }
@@ -135,7 +135,7 @@ footer a:visited{
 
 
 .extra1{
-    background-image:url(/zen_garden/botel.jpeg);
+    background-image:url(/zen_photos/botel.jpeg);
     position:absolute;
     top:900px;
     left:20px;
@@ -149,7 +149,7 @@ footer a:visited{
 
 
  .extra2{
-    background-image:url(/zen_garden/bubs.png);
+    background-image:url(/zen_photos/bubs.png);
     position:absolute;
     top:35px;
     left:20px;
@@ -183,7 +183,7 @@ header h1, header h2{
 header {
     
   /* background-color:#A1FDE1; 
-     background-image:url(/zen_garden/header.jpg); */
+     background-image:url(/zen_photos/header.jpg); */
      color:white;
       
 }
@@ -278,7 +278,7 @@ footer a:visited{
 
 
  .extra2{
-    background-image:url(/zen_garden/bubs.png);
+    background-image:url(/zen_photos/bubs.png);
     position:absolute;
     top:28px;
     left:25px;
